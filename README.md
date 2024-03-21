@@ -1,4 +1,5 @@
 # Demo
 This is my first Git Repository.
+
 <br>
-Author - Kapil Gupta, Student at NITP.
+Author - Kapil Gupta, Student at NIT PATNA.
